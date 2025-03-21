@@ -11,7 +11,7 @@ import style from './Home.module.css'
                 <div className={style.text}>
                 <h2>Okeke Chidera</h2>
                   <p>Lagos Nigeria</p>
-                  <p >"frontend developer and "</p>
+                  <p >"frontend developer and designer"</p>
                 </div>
                 <div className={style.btn}>
                   <button onClick={() => window.open("https://github.com/Tersemajesty", "_blank")}>Github</button>
