@@ -6,7 +6,7 @@ import style from './Home.module.css'
         <div className={style.home}>
             <div className={style.container}>
                 <div className={style.imgcontainer}>
-                <img src="public/terse pics.jpg" alt="profile picture" />
+                <img src="src/assets/terse pics.jpg" alt="profile picture" />
                 </div>
                 <div className={style.text}>
                 <h2>OKEKE CHIDERA</h2>
