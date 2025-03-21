@@ -111,6 +111,7 @@
 
     .btn{
         height: 90%;
+        gap: 5px;
 
         & button {
             height: 20%;
