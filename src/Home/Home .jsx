@@ -6,12 +6,12 @@ import style from './Home.module.css'
         <div className={style.home}>
             <div className={style.container}>
                 <div className={style.imgcontainer}>
-                <img src="src/assets/terse pics.jpg" alt="profile picture" />
+                <img src="/terse pics.jpg" alt="profile picture" />
                 </div>
                 <div className={style.text}>
-                <h2>OKEKE CHIDERA</h2>
+                <h2>Okeke Chidera</h2>
                   <p>Lagos Nigeria</p>
-                  <p >"frontend developer"</p>
+                  <p >"frontend developer and "</p>
                 </div>
                 <div className={style.btn}>
                   <button onClick={() => window.open("https://github.com/Tersemajesty", "_blank")}>Github</button>
