@@ -3,11 +3,12 @@ import style from './Home.module.css'
 
  const Home  = () => {
     return (
+      
         <div className={style.home}>
-            <div className={style.container}>
+            <div className={Style.container}>
                 <div className={style.imgcontainer}>
                 <img src="/terse pics.jpg" alt="profile picture" />
-                </div>
+                </div>    
                 <div className={style.text}>
                 <h2>Okeke Chidera</h2>
                   <p>Lagos Nigeria</p>
